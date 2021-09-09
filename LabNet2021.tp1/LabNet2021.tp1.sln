@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabNet2021.tp1", "LabNet2021.tp1\LabNet2021.tp1.csproj", "{AD1921E2-CD74-4829-ABD1-5FB3AA4C0B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1921E2-CD74-4829-ABD1-5FB3AA4C0B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1921E2-CD74-4829-ABD1-5FB3AA4C0B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1921E2-CD74-4829-ABD1-5FB3AA4C0B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1921E2-CD74-4829-ABD1-5FB3AA4C0B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA6103F-F9BE-4134-862C-F448D3D7A44B}
+	EndGlobalSection
+EndGlobal
